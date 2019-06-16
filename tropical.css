@@ -1,0 +1,55 @@
+body{
+	background: #a9d7d1;
+}
+.title{
+	text-align: center;
+
+}
+.main{
+	background: #ffffff;
+	margin: 2% 15%;
+}
+
+.container{
+	text-align: center;
+
+}
+.upper{
+	padding: 20px;
+}
+label{
+	text-align: right;
+	padding-right: 27px;
+	width: 50%;
+}
+
+input{
+	float: left;
+	vertical-align: bottom;
+    position: relative;
+}
+
+.form-row{
+	padding: 20px;
+	 display: flex;
+}
+
+.form-col{
+	width: 50%
+}
+.dropdown{
+	width: 20%;
+	border-radius: 2px;
+
+}
+
+.radio{
+	position: inherit;
+}
+
+.checkbox{
+	display: block;
+	
+ 	}
+
+ 
